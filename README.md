@@ -7,7 +7,7 @@ import csinfoti.dados;
 public class Pessoal{
     public void Dados(){
         String name = "Christian Schimidt";
-        int age = 33;
+        int age = 34;
         System.out.println("Bem vindo ao meu Readme.md");
     }
 
@@ -24,6 +24,7 @@ public class Pessoal{
     }
 
     public void HardSkills(){
+        System.out.println("Angular");
         System.out.println("AutoCAD");
         System.out.println("Automação Bancária");
         System.out.println("AWS Básico");
@@ -38,6 +39,7 @@ public class Pessoal{
         System.out.println("Linux");
         System.out.println("Notion");    
         System.out.println("Suporte a Hardware e Software");
+        System.out.println("Spring Bot");
         System.out.println("VMWare Básico");
     }
      
